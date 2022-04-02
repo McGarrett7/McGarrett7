@@ -11,10 +11,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-I am Nguyen Son Tung, I'm currently pursuing my Bachelors in computer science from UEt-VNU. I am a tech enthusiast & a self learner.
-- 🔭 I’m currently studying on UET
-- 📫 Contact to me: s.tungnguyen77@gmail.com
 <h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1>
+<p>
+I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science from UET-VNU. I am a tech enthusiast & a self learner.
+</br>
+- 🔭 I’m currently studying on UET
+ </p>
+<!-- <div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div> -->
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </p>
 
 -----
