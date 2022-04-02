@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...-->
 
 <p align="center">
-    <img width="200" src="https://lh5.googleusercontent.com/qgestNhj8Smo8fo0TeAvadp6VUwOu7-gJJYsXsF5beIKjuhe4ZrUTgunaOt-OZMMEcfvdRhca7hk3w=w1920-h892">
+    <img width="200" src="https://lh3.googleusercontent.com/Bw88w_x_G5nu4xMdSOfax-SuXdfb6AahNFYntbU-7yfKDU01mpd8pi4_BQOa2hwH9RXXf7QtjkPS-A=w1253-h877">
 </p>
 <!-- <h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1>  -->
     <div align=center>
@@ -111,6 +111,7 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> -->
 </span>
  
+
 
 ## ⚡ Recent GitHub Activity
 
