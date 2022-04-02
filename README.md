@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 <p align="center">
     <img width="200" src="https://lh5.googleusercontent.com/qgestNhj8Smo8fo0TeAvadp6VUwOu7-gJJYsXsF5beIKjuhe4ZrUTgunaOt-OZMMEcfvdRhca7hk3w=w1920-h892">
 </p>
-<h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1> 
+<!-- <h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1>  -->
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+Son+Tung;Computer+Science+Student" alt="Headline" />
+    </div>
+
 
 <p>
 I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>. I am a tech enthusiast & a self learner.
@@ -103,16 +107,8 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 </span>
  
 
+## ⚡ Recent GitHub Activity
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
-<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
-<a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="hridoyalhazard" height="30" width="40" /></a>
-    
-<br>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
    <a href="https://github.com/McGarrett7"><img alt="McGarrett7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=McGarrett7's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br/>
@@ -120,5 +116,13 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/McGarrett7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=McGarrett7&layout=compact&theme=algolia" alt="McGarrett7" /></a> </p>
+
+
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
+<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+    
 
 -----
