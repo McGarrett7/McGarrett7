@@ -37,7 +37,7 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
-## 📊 Github Stats
+## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 ![SONTUNG's github stats](https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=tokyonight" alt="mystreak"/>
@@ -134,19 +134,17 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
  
 
 
-## ⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
    <a href="https://github.com/McGarrett7"><img alt="McGarrett7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=McGarrett7's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br/>
 
-## :trophy: Git profile Trophies
+## :trophy: Git profile Trophies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 <p align="center"> <a href="https://github.com/McGarrett7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=McGarrett7&layout=compact&theme=algolia" alt="McGarrett7" /></a> </p>
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
-
 
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
