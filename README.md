@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <p>
-:cop:I am Nguyen Son Tung:blush:, I'm currently pursuing my Bachelors in Computer Science:computer: from <a href="https://uet.vnu.edu.vn">UET-VNU:school:</a>. I am a tech enthusiast & a amateur photographer:camera:. I like playing sports:tennis::soccer:, listening to music:musical_note:, watching film:tv:, travelling:airplane:,...
+:cop:I am Nguyen Son Tung:blush:, I'm currently pursuing my Bachelors in Computer Science:computer: from <a href="https://uet.vnu.edu.vn">UET-VNU:school:</a>. I am a tech enthusiast & a amateur photographer:camera:. I like playing sports:tennis::soccer:, listening to music:musical_note:, watching film:tv:, playing games:video_game:, travelling:airplane:,...
 </br>
 </p>
 
