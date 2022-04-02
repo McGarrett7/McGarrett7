@@ -36,16 +36,20 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 -----
 ## 📊 Github Stats
 
-<p align ="left">
+![SONTUNG's github stats](https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=tokyonight" alt="mystreak"/>
+![SONTUNG's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact)
+
+<!-- <p align ="left">
   <img height="180em" left=0 src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-<!--  <p align="right"> -->
+ <p align="right">
     <a href="https://github.com/McGarrett7/github-readme-streak-stats">
         <img align="right" height=180em title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="McGarrett7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
  
  </br>
   <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/> -->
 
 
 </p>
