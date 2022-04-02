@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Recent GitHub Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
-   <a href="https://github.com/McGarrett7"><img alt="McGarrett7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=McGarrett7's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=McGarrett7's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 <br/>
 
@@ -154,7 +154,7 @@ Here are some ideas to get you started:
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## :mailbox_with_mail: Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## :mailbox_with_mail: Connect with me
 <a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="36" width="33" /></a>
 <a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="McGarrett7" height="30" width="40" /></a>
 <a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
