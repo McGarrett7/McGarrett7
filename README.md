@@ -11,12 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-<h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1>
+<p align="center">
+    <img width="200" src="https://lh5.googleusercontent.com/qgestNhj8Smo8fo0TeAvadp6VUwOu7-gJJYsXsF5beIKjuhe4ZrUTgunaOt-OZMMEcfvdRhca7hk3w=w1920-h892">
+</p>
+<h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1> 
+
 <p>
-I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science from UET-VNU. I am a tech enthusiast & a self learner.
+I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>. I am a tech enthusiast & a self learner.
 </br>
-- 🔭 I’m currently studying on UET
- </p>
+</p>
 <!-- <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
@@ -29,16 +32,18 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 -----
 ## 📊 Github Stats
 
-<p align ="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
- </br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/>
-</p>
-
-<p align="center">
+<p align ="left">
+  <img height="180em" left=0 src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<!--  <p align="right"> -->
     <a href="https://github.com/McGarrett7/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="McGarrett7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img align="right" height=180em title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="McGarrett7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
+ 
+ </br>
+  <p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/>
+
+
 </p>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -100,9 +105,10 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
 <a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
 <a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
+<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="hridoyalhazard" height="30" width="40" /></a>
     
 <br>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
