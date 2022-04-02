@@ -105,6 +105,9 @@ Here are some ideas to get you started:
   <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   <img src= "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
+  <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+ 
+ 
  
  
  </br>
@@ -114,6 +117,8 @@ Here are some ideas to get you started:
   <img src= "https://aleen42.github.io/badges/src/toyota.svg">
   <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
   <img src= "https://aleen42.github.io/badges/src/premiere.svg">
+
+
  
 
  
