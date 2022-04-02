@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </p>
 <!-- <h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1>  -->
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+Son+Tung;Computer+Science+Student" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+SONTUNG;Computer+Science+Student" alt="Headline" />
     </div>
 
 
@@ -25,14 +25,16 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 </br>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" />
+
 <!-- <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/album/738A5dZVHTynH0sfeL87KV?si=W-K2Tq_BQfqSF0jZdVdmNQ">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div> -->
+</div>
+ -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" />
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 ## 📊 Github Stats
@@ -61,8 +63,8 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML6-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -97,9 +99,28 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 
 <h4> Other Tools and Technologies </h4>
 <span>
+  <img src= "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  <img src= "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
+ 
+ 
+ </br>
+  <img src= "https://aleen42.github.io/badges/src/bmw.svg">
+  <img src= "https://aleen42.github.io/badges/src/mercedes_benz.svg">
+  <img src= "https://aleen42.github.io/badges/src/bmw.svg">
+  <img src= "https://aleen42.github.io/badges/src/toyota.svg">
+  <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
+  <img src= "https://aleen42.github.io/badges/src/premiere.svg">
+ 
+
+ 
+ 
+ 
+ 
+ 
 <!--   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -124,12 +145,25 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 <p align="center"> <a href="https://github.com/McGarrett7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=McGarrett7&layout=compact&theme=algolia" alt="McGarrett7" /></a> </p>
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ 
+ <!-- retro visitor counter -->  
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+  
+  <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
-<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="36" width="33" /></a>
+<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="McGarrett7" height="30" width="40" /></a>
 <a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="hridoyalhazard" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
+
     
 
 <!-- ----- -->
