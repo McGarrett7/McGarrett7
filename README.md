@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>. I am a tech enthusiast & a self learner.
 </br>
 </p>
+
 <!-- <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
@@ -31,9 +32,9 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 </div> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
------
 ## 📊 Github Stats
 
 ![SONTUNG's github stats](https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight)
@@ -121,6 +122,7 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 
 <p align="center"> <a href="https://github.com/McGarrett7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=McGarrett7&layout=compact&theme=algolia" alt="McGarrett7" /></a> </p>
 
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
@@ -129,4 +131,4 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 <a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg" alt="hridoyalhazard" height="30" width="40" /></a>
     
 
------
+<!-- ----- -->
