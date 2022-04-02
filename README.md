@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <p>
-I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>. I am a tech enthusiast & a self learner.
+:cop:I am Nguyen Son Tung:blush:, I'm currently pursuing my Bachelors in Computer Science:computer: from <a href="https://uet.vnu.edu.vn">UET-VNU:school:</a>. I am a tech enthusiast & a amateur photographer:camera:. I like playing sports:tennis::soccer:, listening to music:musical_note:, watching film:tv:, travelling:airplane:,...
 </br>
 </p>
 
@@ -56,10 +56,10 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
 
 
 </p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>:pencil:Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## :fire: Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
 <span> 
@@ -147,7 +147,7 @@ I am Nguyen Son Tung, I'm currently pursuing my Bachelors in Computer Science fr
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## :mailbox_with_mail: Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="36" width="33" /></a>
 <a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="McGarrett7" height="30" width="40" /></a>
 <a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
