@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <b>:pencil:Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <details>
- <summary>  :fire: Skills </summary>
+ <summary> :fire: Skills </summary>
 
 <h4> Languages </h4>
 <span> 
