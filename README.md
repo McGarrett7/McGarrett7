@@ -40,8 +40,12 @@ Here are some ideas to get you started:
 ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 ![SONTUNG's github stats](https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=tokyonight" alt="mystreak"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=tokyonight" alt="mystreak"/>
 ![SONTUNG's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact)
+<img align="right" right="10" alt="GIF" src="https://media0.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=790b7611a4f1115bb9644114b3cd8ac82f884adf00aca1e9&rid=giphy.gif&ct=g" width="340" height="200" />  
+
+<!-- 
+<iframe src="https://giphy.com/embed/RDZo7znAdn2u7sAcWH" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH">via GIPHY</a></p> -->
 
 <!-- <p align ="left">
   <img height="180em" left=0 src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
@@ -55,7 +59,7 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/> -->
 
 
-</p>
+<!-- </p> -->
 <b>:pencil:Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
