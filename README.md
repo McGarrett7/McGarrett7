@@ -138,13 +138,13 @@ Here are some ideas to get you started:
    <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=SONTUNG's%20Contribution%20Graph&theme=react-dark" /></a>
 </details>
 
-## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=790b7611203cd1b1d0c109529df4c5020d2d5aa230966f94&rid=giphy.gif&ct=g" width="30px">
 <p align="center">
   <img src="https://github.com/McGarrett7/McGarrett7/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
-## :trophy: Git profile Trophies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## :trophy: Git profile Trophies <img src="https://media3.giphy.com/media/Lr81Rcf30wZc1mApk2/giphy.gif?cid=790b7611000912c2dcb7133245c957b825d63c5620157fbf&rid=giphy.gif&ct=s" width="50px">
 
 <p align="center"> <a href="https://github.com/McGarrett7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=McGarrett7&layout=compact&theme=algolia" alt="McGarrett7" /></a> </p>
 
