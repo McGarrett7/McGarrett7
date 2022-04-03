@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 
 ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-![SONTUNG's github stats](https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=tokyonight" alt="mystreak"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  width="450px" alt="Sameer's Top Languages">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" />
+<img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=tokyonight" alt="mystreak"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  width="450px" alt="Sameer's Top Languages">
 <img alt="GIF" src="https://media0.giphy.com/media/JpGRoqJXTqv4f1mrJb/giphy.gif?cid=790b7611173bb1600dce652a8490427a2a83198365b82f8a&rid=giphy.gif&ct=g" height="170" width="527px" />  
 <!-- 
 <iframe src="https://giphy.com/embed/RDZo7znAdn2u7sAcWH" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH">via GIPHY</a></p> -->
