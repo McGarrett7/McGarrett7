@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <b>:pencil:Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <details>
- <summary> :fire: Skills </summary>
+ <summary> <h3>:fire: Skills </h3> </summary>
 
 <h4> Languages </h4>
 <span> 
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 </span>
 
 <details>
-<summary>⚡ Recent GitHub Activity </summary>
+ <summary><h3>⚡ Recent GitHub Activity</h3> </summary>
 </br>
    <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=SONTUNG's%20Contribution%20Graph&theme=react-dark" /></a>
 </details>
