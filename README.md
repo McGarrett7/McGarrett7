@@ -152,6 +152,7 @@ Here are some ideas to get you started:
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+![snake gif](https://github.com/McGarrett7/McGarrett7/blob/output/github-contribution-grid-snake.gif)
 
 ## :mailbox_with_mail: Connect with me
 <a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="36" width="33" /></a>
