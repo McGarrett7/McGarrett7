@@ -137,8 +137,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> -->
 </span>
- 
 
+## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+<p align="center">
+  <img src="https://github.com/McGarrett7/McGarrett7/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 ## ⚡ Recent GitHub Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
@@ -152,7 +155,6 @@ Here are some ideas to get you started:
 
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-![snake gif](https://github.com/McGarrett7/McGarrett7/blob/output/github-contribution-grid-snake.svg)
 
 ## :mailbox_with_mail: Connect with me
 <a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="36" width="33" /></a>
