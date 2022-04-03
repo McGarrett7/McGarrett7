@@ -18,14 +18,14 @@ Here are some ideas to get you started:
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+SONTUNG;Computer+Science+Student" alt="Headline" />
     </div>
-
-
-<p>
-:cop:I am Nguyen Son Tung:blush:, I'm currently pursuing my Bachelors in Computer Science:computer: from <a href="https://uet.vnu.edu.vn">UET-VNU:school:</a>. I am a tech enthusiast & a amateur photographer:camera:. I like playing sports:tennis::soccer:, listening to music:musical_note:, watching film:tv:, playing games:video_game:, travelling:airplane:,...
 </br>
-</p>
+<ul>
+ <li>:cop:I am Son Tung:blush: <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </li>
+ <li>🌱I'm currently pursuing my Bachelors🎓 in Computer Science:computer: from <a href="https://uet.vnu.edu.vn">UET-VNU:school:</a>.</li>
+ <li>:star2:I am a tech enthusiast & a amateur photographer:camera:.</li>
+ <li>:heart:I like playing sports:tennis::soccer:, listening to music:musical_note:, watching film:tv:, playing games:video_game:, travelling:airplane:,...</li>
+</ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" />
 
 <!-- <div align="center">
   <a href="https://open.spotify.com/album/738A5dZVHTynH0sfeL87KV?si=W-K2Tq_BQfqSF0jZdVdmNQ">
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/> -->
 <b>:pencil:Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-## :fire: Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<details>
+<summary> <h3>:fire: Skills </h3> </summary>
 
 <h4> Languages </h4>
 <span> 
@@ -68,9 +68,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
- 
 </span>
 
+ 
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
@@ -108,9 +108,6 @@ Here are some ideas to get you started:
   <img src= "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
   <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
  
- 
- 
- 
  </br>
   <img src= "https://aleen42.github.io/badges/src/bmw.svg">
   <img src= "https://aleen42.github.io/badges/src/mercedes_benz.svg">
@@ -118,14 +115,7 @@ Here are some ideas to get you started:
   <img src= "https://aleen42.github.io/badges/src/toyota.svg">
   <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
   <img src= "https://aleen42.github.io/badges/src/premiere.svg">
-
-
- 
-
- 
- 
- 
- 
+ </details>
  
 <!--   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -138,16 +128,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"> -->
 </span>
 
+<details>
+<summary><h3>⚡ Recent GitHub Activity  </h3></summary>
+</br>
+   <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=SONTUNG's%20Contribution%20Graph&theme=react-dark" /></a>
+</details>
+
 ## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
   <img src="https://github.com/McGarrett7/McGarrett7/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-## ⚡ Recent GitHub Activity <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
-   <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=McGarrett7's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-<br/>
 
 ## :trophy: Git profile Trophies <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
