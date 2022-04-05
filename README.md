@@ -18,6 +18,9 @@ Here are some ideas to get you started:
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+SONTUNG;Computer+Science+Student" alt="Headline" />
     </div>
+    <div align=center>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/McGARRETT.png" alt="TryHackMe">
+ </div>
 </br>
 <ul>
  <li>:cop:I am Son Tung:blush: <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </li>
@@ -25,6 +28,7 @@ Here are some ideas to get you started:
  <li>:star2:I am a tech enthusiast & a amateur photographer:camera:.</li>
  <li>:heart:I like playing sports:tennis::soccer:, listening to music:musical_note:, watching film:tv:, playing games:video_game:, travelling:airplane:,...</li>
 </ul>
+
 
 
 <!-- <div align="center">
