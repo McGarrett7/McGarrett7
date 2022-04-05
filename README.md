@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...-->
 
 <p align="center">
-    <img width="200" src="https://lh3.googleusercontent.com/Bw88w_x_G5nu4xMdSOfax-SuXdfb6AahNFYntbU-7yfKDU01mpd8pi4_BQOa2hwH9RXXf7QtjkPS-A=w1253-h877">
+    <img width="200" src="https://i.pinimg.com/originals/b2/25/21/b22521f99784402f59ed0eda7c6fdba8.png">
 </p>
 <!-- <h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1>  -->
     <div align=center>
