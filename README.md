@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!--  </p>
  <p> -->
 <img height=164px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  alt="Sameer's Top Languages">
-<img  height=164em alt="GIF" src="https://media0.giphy.com/media/JpGRoqJXTqv4f1mrJb/giphy.gif?cid=790b7611173bb1600dce652a8490427a2a83198365b82f8a&rid=giphy.gif&ct=g"  width="335px" />
+<img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" />
  </p>
 <!-- 
 <iframe src="https://giphy.com/embed/RDZo7znAdn2u7sAcWH" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH">via GIPHY</a></p> -->
