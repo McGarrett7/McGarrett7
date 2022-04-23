@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 <!--  </p>
  <p> -->
 <img height=164px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  alt="Sameer's Top Languages">
-<img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" />
+<!-- <img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" /> -->
+ <img  height=164em alt="GIF" src="https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_562,w_1000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1509456885/171031-cox-white-hat-hacking-hero_flta8j"  width="335px" />
+<!--  <img  height=164em alt="GIF" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"  width="335px" /> -->
  </p>
 <!-- 
 <iframe src="https://giphy.com/embed/RDZo7znAdn2u7sAcWH" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SandiaLabs-cyber-security-cybersecurity-RDZo7znAdn2u7sAcWH">via GIPHY</a></p> -->
