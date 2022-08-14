@@ -150,7 +150,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## :trophy: Git profile Trophies <img src="https://media3.giphy.com/media/Lr81Rcf30wZc1mApk2/giphy.gif?cid=790b7611000912c2dcb7133245c957b825d63c5620157fbf&rid=giphy.gif&ct=s" width="50px">
+## :trophy: Git profile Trophies <img src="https://media4.giphy.com/media/0aPPtKMzC2sg6LZFal/giphy.gif?cid=790b76119e6d7666ada6540b827097f43be75a9eadbd7e06&rid=giphy.gif&ct=s" width="50px">
 
 <p align="center"> <a href="https://github.com/McGarrett7/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=McGarrett7&layout=compact&theme=algolia" alt="McGarrett7" /></a> </p>
 
