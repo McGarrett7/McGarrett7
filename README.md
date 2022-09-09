@@ -109,7 +109,8 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> -->
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<!-- <h4> Other Tools and Technologies </h4> -->
+<h4> Others </h4>
 <span>
   <img src= "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -117,7 +118,7 @@ Here are some ideas to get you started:
   <img src= "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   <img src= "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white">
-  <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <!-- <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> -->
  
  </br>
   <img src= "https://aleen42.github.io/badges/src/bmw.svg">
@@ -125,6 +126,7 @@ Here are some ideas to get you started:
   <img src= "https://aleen42.github.io/badges/src/toyota.svg">
   <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
   <img src= "https://aleen42.github.io/badges/src/premiere.svg">
+  <img src= "https://aleen42.github.io/badges/src/manchester_united.svg">
  </details>
  
 <!--   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
