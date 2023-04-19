@@ -143,7 +143,8 @@ Here are some ideas to get you started:
 <details>
  <summary><h3>⚡ Recent GitHub Activity</h3> </summary>
 </br>
-   <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=SONTUNG's%20Contribution%20Graph&theme=react-dark" /></a>
+<!--    <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=SONTUNG's%20Contribution%20Graph&theme=react-dark" /></a> -->
+   <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=McGarrett7&bg_color=00000000&color=1E90FF&line=00FFFF&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 ## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=790b7611203cd1b1d0c109529df4c5020d2d5aa230966f94&rid=giphy.gif&ct=g" width="30px">
