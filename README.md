@@ -101,6 +101,12 @@ Here are some ideas to get you started:
 <span>
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+
+
+
+
 
 <h4> Operating System </h4>
 <span>
@@ -129,7 +135,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
- 
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white">
 
 <!--   <img src= "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> -->
   <!-- <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> -->
@@ -139,6 +146,7 @@ Here are some ideas to get you started:
 <!--   <img src= "https://aleen42.github.io/badges/src/mercedes_benz.svg"> -->
   <img src= "https://aleen42.github.io/badges/src/toyota.svg">
   <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
+   <!-- <img src= "https://aleen42.github.io/badges/src/lightroom.svg"> -->
   <img src= "https://aleen42.github.io/badges/src/premiere.svg">
   <img src= "https://aleen42.github.io/badges/src/manchester_united.svg">
  </details>
