@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </p>
 <!-- <h1 align="center">Hi there 👋 I'm Son Tung :cop:</h1>  -->
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+SONTUNG;Computer+Science+Student" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+SONTUNG;Computer+Science+BSc" alt="Headline" />
     </div>
     <div align=center>
  <img src="https://tryhackme-badges.s3.amazonaws.com/McGARRETT.png" alt="TryHackMe">
@@ -126,6 +126,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+ 
 
 <!--   <img src= "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> -->
   <!-- <img src= "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> -->
