@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p>
 <img height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=McGarrett7&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img height=164em src="https://github-readme-streak-stats.herokuapp.com?user=McGarrett7&theme=tokyonight" alt="GitHub Streak" /></a>
  <!--
 <img height=164px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  alt="Sameer's Top Languages">
  <img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" /> -->
@@ -143,7 +143,6 @@ Here are some ideas to get you started:
 </br>
 <!--    <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=SONTUNG's%20Contribution%20Graph&theme=react-dark" /></a> -->
    <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=McGarrett7&bg_color=00000000&color=1E90FF&line=00FFFF&point=FFFFFF&hide_border=true" /></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 ## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=790b7611203cd1b1d0c109529df4c5020d2d5aa230966f94&rid=giphy.gif&ct=g" width="30px">
