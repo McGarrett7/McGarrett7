@@ -155,7 +155,7 @@ Here are some ideas to get you started:
 
 ## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=790b7611203cd1b1d0c109529df4c5020d2d5aa230966f94&rid=giphy.gif&ct=g" width="30px">
 <p align="center">
-  <img src="https://github.com/McGarrett7/McGarrett7/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/McGarrett7/McGarrett7/blob/output/github-snake-dark.svg" alt="snake"></center>
 </p>
 
 
