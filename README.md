@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </br>
 <ul>
  <li>:cop:I am Son Tung:blush: <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </li>
- <li>🌱I'm currently pursuing my Bachelors🎓 in Computer Science:computer: from <a href="https://uet.vnu.edu.vn">UET-VNU:school:</a>.</li>
+ <li>🌱I'm currently pursuing my Bachelors🎓 in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>.</li>
  <li>:star2:I am a tech enthusiast & a amateur photographer:camera:.</li>
  <li>:heart:Playing sports:tennis::soccer:, listening to music:musical_note:, watching films:tv:, playing games:video_game:, travelling:airplane:,...</li>
 </ul>
@@ -86,11 +86,15 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<br>
+  <img src="https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff">
 </span>
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-99000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-99000F?style=for-the-badge&logo=oracle&logoColor=white">
+ <!-- -F80000?logo=oracle&logoColor=fff -->
 </span>
 
 <h4> IDE </h4>
