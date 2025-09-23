@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p>
 <img height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" />
-<img height=164em src="https://github-readme-streak-stats.herokuapp.com/?user=McGarrett7&theme=tokyonight" alt="mystreak"/>
-<!--  </p>
- <p> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=McGarrett7&theme=tokyonight" alt="GitHub Streak" /></a>
  <!--
 <img height=164px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  alt="Sameer's Top Languages">
  <img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" /> -->
@@ -65,7 +63,7 @@ Here are some ideas to get you started:
  </br>
   <p align="left">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&langs_count=6"/> -->
-<b>:pencil:Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!-- <b>:pencil:Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <details>
  <summary> <h3>:fire: Skills </h3> </summary>
@@ -75,9 +73,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
-<!--   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
  
@@ -144,7 +142,8 @@ Here are some ideas to get you started:
  <summary><h3>⚡ Recent GitHub Activity</h3> </summary>
 </br>
 <!--    <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=McGarrett7&custom_title=SONTUNG's%20Contribution%20Graph&theme=react-dark" /></a> -->
-   <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=McGarrett7&bg_color=00000000&color=1E90FF&line=00FFFF&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/McGarrett7"><img alt="SONTUNG's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=McGarrett7&bg_color=00000000&color=1E90FF&line=00FFFF&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 ## :video_game:Watch a 🐍 eating my contribution graph <img src="https://media2.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=790b7611203cd1b1d0c109529df4c5020d2d5aa230966f94&rid=giphy.gif&ct=g" width="30px">
@@ -163,7 +162,7 @@ Here are some ideas to get you started:
 <!--  ## :mailbox_with_mail: Connect with me -->
 <div align="center">
 <a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="36" width="33" /></a>
-<a href="https://instagram.com/son7ungarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="McGarrett7" height="30" width="40" /></a>
+<a href="https://instagram.com/sontungarre77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="McGarrett7" height="30" width="40" /></a>
 <a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCP6KHPPkB9-xJxKiAhmt-tw/?Sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="McGarrett7" height="40" width="40" /></a>
 <!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
