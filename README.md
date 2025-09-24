@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-99000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Oracle-99000F?style=for-the-badge&logo=oracle&logoColor=white">
  <!-- -F80000?logo=oracle&logoColor=fff -->
 </span>
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 <h4> Security Platforms </h4>
 <span>
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white">
-
+  <img src="https://img.shields.io/badge/bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white">
 </span>
 
 
@@ -141,7 +141,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
   <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white">
-  <img src=" https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+
  
 
 <!--   <img src= "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"> -->
@@ -152,7 +158,6 @@ Here are some ideas to get you started:
 <!--   <img src= "https://aleen42.github.io/badges/src/mercedes_benz.svg"> -->
   <img src= "https://aleen42.github.io/badges/src/toyota.svg">
   <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
-   <!-- <img src= "https://aleen42.github.io/badges/src/lightroom.svg"> -->
   <img src= "https://aleen42.github.io/badges/src/premiere.svg">
   <img src= "https://aleen42.github.io/badges/src/manchester_united.svg">
  </details>
