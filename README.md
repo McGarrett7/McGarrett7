@@ -1,6 +1,6 @@
 
 <!--
-**McGarrett7/McGarrett7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**McGarrett7/McGarrett7** is a ✨ _special_ ✨ repository
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning
@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p>
-<img width="450" height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" />
-<a href="https://git.io/streak-stats"><img width="450" height=164em src="https://github-readme-streak-stats.herokuapp.com?user=McGarrett7&theme=tokyonight" alt="GitHub Streak" /></a>
+<img width="400" height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" />
+<a href="https://git.io/streak-stats"><img width="400" height=164em src="https://github-readme-streak-stats.herokuapp.com?user=McGarrett7&theme=tokyonight" alt="GitHub Streak" /></a>
  <!--
 <img height=164px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  alt="Sameer's Top Languages">
  <img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" /> -->
