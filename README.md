@@ -157,8 +157,8 @@ Here are some ideas to get you started:
   <!-- <img src= "https://aleen42.github.io/badges/src/bmw.svg"> -->
 <!--   <img src= "https://aleen42.github.io/badges/src/mercedes_benz.svg"> -->
   <img src= "https://aleen42.github.io/badges/src/toyota.svg">
-  <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
-  <img src= "https://aleen42.github.io/badges/src/premiere.svg">
+  <!-- <img src= "https://aleen42.github.io/badges/src/photoshop.svg">
+  <img src= "https://aleen42.github.io/badges/src/premiere.svg"> -->
   <img src= "https://aleen42.github.io/badges/src/manchester_united.svg">
  </details>
  
