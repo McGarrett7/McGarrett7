@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </br>
 <ul>
  <li>:cop:I am Son Tung:blush: <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </li>
- <li>🌱I'm currently pursuing my Bachelors🎓 in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>.</li>
+ <li>🌱I graduated with Bachelors🎓 Degree in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>.</li>
  <li>:star2:I am a tech enthusiast & a amateur photographer:camera:.</li>
  <li>:heart:Playing sports:tennis::soccer:, listening to music:musical_note:, watching films:tv:, playing games:video_game:, travelling:airplane:,...</li>
 </ul>
@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p>
-<img width="500" height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" />
-<a href="https://git.io/streak-stats"><img width="500" height=164em src="https://github-readme-streak-stats.herokuapp.com?user=McGarrett7&theme=tokyonight" alt="GitHub Streak" /></a>
+<img width="450" height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" />
+<a href="https://git.io/streak-stats"><img width="450" height=164em src="https://github-readme-streak-stats.herokuapp.com?user=McGarrett7&theme=tokyonight" alt="GitHub Streak" /></a>
  <!--
 <img height=164px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  alt="Sameer's Top Languages">
  <img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" /> -->
