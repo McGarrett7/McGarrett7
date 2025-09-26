@@ -26,10 +26,10 @@ Here are some ideas to get you started:
  <li>:cop:I am Son Tung:blush: <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </li>
  <li>🌱I graduated with Bachelors🎓 Degree in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>.</li>
  <li>:star2:I am a tech enthusiast & an amateur photographer:camera:.</li>
- <li>:heart:Playing sports:tennis::soccer:, listening to music:musical_note:, watching films:tv:, playing games:video_game:, travelling:airplane:,...</li>
+ <li>:heart:Playing sports:tennis::soccer:, listening to music:musical_note:, watching films:tv:, travelling:airplane:,...</li>
 </ul>
 
-
+<!--playing games:video_game: -->
 
 <!-- <div align="center">
   <a href="https://open.spotify.com/album/738A5dZVHTynH0sfeL87KV?si=W-K2Tq_BQfqSF0jZdVdmNQ">
@@ -136,17 +136,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-  <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"> -->
+  <!-- <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"> -->
 
  
 
