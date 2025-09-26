@@ -18,9 +18,7 @@ Here are some ideas to get you started:
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?size=30&color=14A6F7&size=40&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I'm+SONTUNG;Computer+Science+BSc" alt="Headline" />
     </div>
-    <div align=center>
- <img src="https://tryhackme-badges.s3.amazonaws.com/McGARRETT.png" alt="TryHackMe">
- </div>
+
 </br>
 <ul>
  <li>:cop:I am Son Tung:blush: <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </li>
@@ -67,7 +65,9 @@ Here are some ideas to get you started:
 
 <details>
  <summary> <h3>:fire: Skills </h3> </summary>
-
+    <div align=left>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/McGARRETT.png" alt="TryHackMe">
+ </div>
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
