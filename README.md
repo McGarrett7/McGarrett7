@@ -190,7 +190,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/McGarrett7/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=McGarrett7&theme=algolia" alt="McGarrett7" /></a> </p>
 
-><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align ="center">:mailbox_with_mail: Connect with me</h1>
 <!--  ## :mailbox_with_mail: Connect with me -->
