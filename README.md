@@ -195,10 +195,11 @@ Here are some ideas to get you started:
 <h1 align ="center">:mailbox_with_mail: Connect with me</h1>
 <!--  ## :mailbox_with_mail: Connect with me -->
 <div align="center">
-<a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="36" width="33" /></a>
-<a href="https://instagram.com/sontungarre77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="McGarrett7" height="30" width="40" /></a>
-<a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCP6KHPPkB9-xJxKiAhmt-tw/?Sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" alt="McGarrett7" height="40" width="40" /></a>
+<a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="30" width="30" /></a>
+<a href="https://instagram.com/sontungarre77" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" alt="McGarrett7" /></a>
+<a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" alt="McGarrett7" /></a>
+<a href="https://www.youtube.com/channel/UCP6KHPPkB9-xJxKiAhmt-tw/?Sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/youtube.svg" alt="McGarrett7"/></a>
+
 <!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
 </div>
     
