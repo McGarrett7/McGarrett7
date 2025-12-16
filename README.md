@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  <li>:cop:I am Son Tung:blush: <img src="https://komarev.com/ghpvc/?username=McGarrett7" alt="McGarrett7" /> </li>
  <li>🌱I graduated with Bachelors🎓 Degree in Computer Science from <a href="https://uet.vnu.edu.vn">UET-VNU</a>.</li>
  <li>🌱I am pursuing Master🎓 Degree in Data Science from <a href="https://hus.vnu.edu.vn/">HUS-VNU</a>.</li>
- <li>:star2:I am a tech enthusiast & an amateur photographer:camera:.</li>
+ <li>:star2:Tech enthusiast & amateur photographer:camera:.</li>
  <li>:heart:Playing sports:tennis::soccer:, listening to music:musical_note:, watching films:tv:, travelling:airplane:,...</li>
 </ul>
 
