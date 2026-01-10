@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align=center>
 <!-- <img width="400" height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" /> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=McGarrett7" alt="GitHub Streak" />
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=McGarrett7" alt="GitHub Streak" /> -->
  
  <!--
 <img height=164px  src="https://github-readme-stats.vercel.app/api/top-langs/?username=McGarrett7&theme=tokyonight&layout=compact"  alt="Sameer's Top Languages">
