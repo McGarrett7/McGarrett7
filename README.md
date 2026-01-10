@@ -40,10 +40,10 @@ Here are some ideas to get you started:
  -->
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p> -->
 
-## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<p align=center>
+<!-- ## 📊 Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> -->
+<!-- <p align=center> -->
 <!-- <img width="400" height=164em src="https://github-readme-stats.vercel.app/api?username=McGarrett7&show_icons=true&theme=tokyonight" /> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=McGarrett7" alt="GitHub Streak" /> -->
  
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  <img  height=164em alt="GIF" src="https://cdn.dribbble.com/users/124813/screenshots/5939670/623-hacker-floydworx.gif"  width="335px" /> -->
 
 <!--  <img  height=164em alt="GIF" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"  width="335px" /> -->
- </p>
+ <!--  </p> -->
 
 
 <!-- <p align ="left">
