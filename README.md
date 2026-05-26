@@ -200,7 +200,7 @@ Here are some ideas to get you started:
 <!--  ## :mailbox_with_mail: Connect with me -->
 <div align="center">
 <a href="mailto:s.tungnguyen77@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="30" width="28" /></a>
-<a href="https://instagram.com/sontungarre77" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" alt="McGarrett7" /></a>
+<!-- <a href="https://instagram.com/sontungarre77" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" alt="McGarrett7" /></a> -->
 <a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" alt="McGarrett7" /></a>
 <a href="https://www.youtube.com/channel/UCP6KHPPkB9-xJxKiAhmt-tw/?Sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/youtube.svg" alt="McGarrett7"/></a>
 
