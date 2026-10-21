@@ -200,9 +200,10 @@ Here are some ideas to get you started:
 <!--  ## :mailbox_with_mail: Connect with me -->
 <div align="center">
 <a href="mailto:tungns7702@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/c48cd5d649ad3d397166ad3661a259bed9696ea6/topics/gmail/gmail.png" alt="McGarrett7" height="30" width="28" /></a>
+ <a href="https://www.linkedin.com/in/sontungarrett72" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99184393/188185026-93637cf8-67e9-439a-b33a-6feba7b8bd21.png" alt="McGarrett7" width="27" height="auto" /></a>
 <!-- <a href="https://instagram.com/sontungarre77" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg" alt="McGarrett7" /></a> -->
-<a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" alt="McGarrett7" /></a>
-<a href="https://www.youtube.com/channel/UCP6KHPPkB9-xJxKiAhmt-tw/?Sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/youtube.svg" alt="McGarrett7"/></a>
+<!-- <a href="https://github.com/McGarrett7" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" alt="McGarrett7" /></a> -->
+<!-- <a href="https://www.youtube.com/channel/UCP6KHPPkB9-xJxKiAhmt-tw/?Sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/youtube.svg" alt="McGarrett7"/></a> -->
 
 <!-- <a href="https://fb.com/sontung.7702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sontung.7702" height="30" width="40" /></a> -->
 </div>
